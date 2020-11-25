@@ -99,7 +99,7 @@ Brady Haden - [LinkedIn](https://www.linkedin.com/in/brady-s-haden/)
 [stars-url]: https://github.com/bhaden94/Covid-19-Tracker-V2/stargazers
 
 [license-shield]: https://img.shields.io/github/license/bhaden94/Covid-19-Tracker-V2.svg
-[license-url]: https://github.com/bhaden94/Covid-19-Tracker-V2/blob/master/LICENSE.txt
+[license-url]: https://github.com/bhaden94/Covid-19-Tracker-V2/blob/main/LICENSE
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/brady-s-haden/
