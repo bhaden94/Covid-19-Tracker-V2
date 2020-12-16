@@ -18,7 +18,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://covid-tracker-v2.herokuapp.com/">
+  <a href="https://covid-19-tracker-v2-fe.vercel.app/">
     <img src="https://images.newscientist.com/wp-content/uploads/2020/02/11165812/c0481846-wuhan_novel_coronavirus_illustration-spl.jpg" alt="Logo" width="150" height="100">
   </a>
 
@@ -27,7 +27,7 @@
   <p align="center">
     Visualization dashboard to see key data related to Covid-19.
     <br />
-    <a href="https://covid-tracker-v2.herokuapp.com/">View On Heroku</a>
+    <a href="https://covid-19-tracker-v2-fe.vercel.app/">View Live Application</a>
     ·
     <a href="https://github.com/bhaden94/Covid-19-Tracker-V2/issues">Report an Issue With This Documentation</a>
   </p>
