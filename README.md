@@ -40,7 +40,7 @@
 
 * [About the Project](#about-the-project)
   * [Parts of Code](#parts-of-code)
-* [Contributing](#contributing)
+* [Usage](#usage)
 * [License](#license)
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
